@@ -1,0 +1,6 @@
+<aspectj>
+  <aspects>
+    <aspect name="de.scrum_master.aspect.MyAspect" scope="de.scrum_master.app..*" />
+    <!-- other aspects go here, with or without scope -->
+  </aspects>
+</aspectj>
